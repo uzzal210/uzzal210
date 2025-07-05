@@ -37,7 +37,7 @@ I actively engage in **competitive programming**, develop **ML/DL projects**, an
 
 ---
 
-## 🤖 Competitive Programming
+## 🤖 Competitive Programming and Kaggle Competition
 
 I actively solve algorithmic and mathematical problems on multiple online judges using **Python, C, and C++**:
 
@@ -49,7 +49,7 @@ I actively solve algorithmic and mathematical problems on multiple online judges
 | 🔢 Beecrowd (URI) | [View Profile](https://judge.beecrowd.com/en/profile/419924) |
 | 🧩 LeetCode    | [View Profile](https://leetcode.com/u/uzzalkumar210/)         |
 | 💼 LightOJ    | [View Profile](https://lightoj.com/user/user-f8zplpzi)           |
-
+|    Kaggle      | [View Profile](https://www.kaggle.com/uzzalkumar)           |
 > 📌 I have solved hundreds of problems involving math, algorithms, and advanced data structures.
 
 ---
