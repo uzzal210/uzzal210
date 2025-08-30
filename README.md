@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Uzzal Kumar
 
 🎓 A graduate in **Applied Mathematics** from the **University of Rajshahi**  
-💡 Passionate about **Machine Learning**, **Deep Learning**, **Data Science**, and **Problem Solving**  
+💡 Passionate about **Data Analytics**,**Machine Learning**, **Deep Learning**, **Data Science**, and **Problem Solving**  
 🧮 Strong foundation in **Mathematics**, **Statistics**, **Calculus**, and **Algorithms**  
 💻 Experienced in **Python**, **C**, and **C++** for competitive programming and development  
 
